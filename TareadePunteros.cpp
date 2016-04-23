@@ -1,7 +1,7 @@
 //============================================================================
 // Nombre      : Punteros.cpp
-// Auhor       : Martín
-// Carrera     :Ingenieria en Sistemas
+// Auhor       : MartÃ­n
+// Carrera     : Ingenieria en Sistemas
 // Universidad : Universidad Mariano Galvez de Guatemala
 // Descripcion : Direccion de memoria de estructuras
 //============================================================================
